@@ -22,3 +22,6 @@ Similarly in this project with the help of image processing involving the techni
 6. Applying Structural Similarity Index (SSIM) technique between the two images
 7. Calculate Threshold and contours and
 8. Experience real-time contours and threshold on images
+
+
+## Required packages
