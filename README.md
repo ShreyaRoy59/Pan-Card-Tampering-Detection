@@ -1,9 +1,6 @@
 # Pan-Card-Tempering-Detection
 
 <p align="center">
-
- <!--<img src="https://img.shields.io/badge/Age-26-blue" />-->
- 
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/PYTHON%20-blue" />
   <img src="https://img.shields.io/badge/Computer%20%20Vision-brightgreen" />
@@ -14,12 +11,9 @@ Detecting fraud Pan Cards using computer vision to help organisations in verifyi
 
 
 <p align="center">
-<img src="https://bigdatapath.files.wordpress.com/2017/06/realtimepersonalization_embed.gif?w=1108" width="800px">
+<img src="https://www.nec.com/en/global/solutions/biometrics/img/face/face_header_sd.jpg" width="800px">
 </p>
- <!--                                                                                                             
- <p align="center">
-<img src="https://lh3.googleusercontent.com/proxy/AeT-hqDOTlQmVQCJrTEqUjGdh3292wxjWa5wU3CnXqRu9auq5VrvlFKyk2sjjtGiQAieDtWoOHwakh8zHzV6Ta8qx9_r4aymcpZ1lIQnZ0hUibI_hYxRiSk6mf0m6gI7Vk65vCLu" width="900px" >                                           </p>                                                                 
--->
+ 
 
 
 The purpose of this project is to detect tampering/fraud of PAN cards using computer vision. This project will help the different organizations in detecting whether the Id i.e. the PAN card provided to them by their employees or customers or anyone is original or not.
