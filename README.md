@@ -45,3 +45,15 @@ Similarly in this project with the help of image processing involving the techni
 * <a href= "https://github.com/PyImageSearch/imutils#:~:text=imutils-,A%20series%20of%20convenience%20functions%20to%20make%20basic%20image%20processing,Python%202.7%20and%20Python%203.">  <b>imutils </b> </a> : Imutils are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, and displaying images easier with OpenCV.
 * <a href="https://pypi.org/project/opencv-python/"> <b>cv2 </b> </a> : OpenCV (Open Source Computer Vision Library) is a library of programming functions. Here in this project major reading and writing of the image are done via cv2.
 * <a href="https://en.wikipedia.org/wiki/Python_Imaging_Library"> <b>PIL </b> </a> : PIL (Python Imaging Library) is a free and open-source additional library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.
+
+
+
+
+
+
+
+## Summary
+- Finding out structural similarity of the images helped us in finding the difference or similarity in the shape of the images.
+- Similarly, finding out the threshold and contours based on that threshold for the images converted into grayscale binary also helped us in shape analysis and recognition.
+- As our SSIM is ~31.2% we can say that the image user provided is fake or tampered with.
+- Finally, we visualized the differences and similarities between the images using by displaying the images with contours, difference, and threshold.
