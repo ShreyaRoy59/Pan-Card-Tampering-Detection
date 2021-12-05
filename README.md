@@ -48,7 +48,7 @@ Similarly in this project with the help of image processing involving the techni
 * <a href="https://pypi.org/project/opencv-python/"> <b>cv2 </b> </a> : OpenCV (Open Source Computer Vision Library) is a library of programming functions. Here in this project major reading and writing of the image are done via cv2.
 * <a href="https://en.wikipedia.org/wiki/Python_Imaging_Library"> <b>PIL </b> </a> : PIL (Python Imaging Library) is a free and open-source additional library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.
 
--->
+
 
 
 ## Summary
