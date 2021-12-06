@@ -1,11 +1,11 @@
 # Pan-Card-Tempering-Detection
-
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/PYTHON%20-blue" />
   <img src="https://img.shields.io/badge/Computer%20%20Vision-brightgreen" />
 </p>
-
+-->
 
 ## Detecting fraud Pan Cards using computer vision to help organisations in verifying ID's of employees or customers.
 
