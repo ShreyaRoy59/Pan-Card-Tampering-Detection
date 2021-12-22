@@ -33,7 +33,7 @@ Similarly in this project with the help of image processing involving the techni
 1. Import necessary libraries
 2. Scraping the tampered and original pan card from the website
 3. Scaling down the shape of the tampered image as the original image
-4. Read original and tampered image
+4. Reading original and tampered image
 5. Converting an image into a grayscale image
 6. Applying Structural Similarity Index (SSIM) technique between the two images
 7. Calculate Threshold and contours and
