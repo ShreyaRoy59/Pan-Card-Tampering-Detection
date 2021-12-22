@@ -36,7 +36,7 @@ Similarly in this project with the help of image processing involving the techni
 4. Reading original and tampered image
 5. Converting an image into a grayscale image
 6. Applying Structural Similarity Index (SSIM) technique between the two images
-7. Calculate Threshold and contours and
+7. To calculate Threshold and contours and
 8. Experience real-time contours and threshold on images
 
 
