@@ -8,7 +8,7 @@
 </p>
 
 
-### Detecting fraud Pan Cards using Computer Vision to help organisations in verifying ID's of employees or customers.
+## Detecting fraud Pan Cards using Computer Vision to help organisations in verifying ID's of employees or customers.
 
 
 <p align="center">
