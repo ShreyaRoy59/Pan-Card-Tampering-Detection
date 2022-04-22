@@ -1,4 +1,4 @@
-# Pan-Card-Tempering-Detection
+# Pan Card Tempering Detection
 
 
 <p align="center">
