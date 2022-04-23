@@ -58,8 +58,9 @@ Similarly in this project with the help of image processing involving the techni
 
 - Finding out structural similarity of the images helped in finding the difference or similarity in the shape of the images.
 - Similarly, finding out the threshold and contours based on that threshold for the images converted into grayscale binary also helped us in shape analysis and recognition.
-- As our SSIM is ~31.2% we can say that the image user provided is fake or tampered with.
 <!--
+- As our SSIM is ~31.2% we can say that the image user provided is fake or tampered with.
+
 - Finally, we visualized the differences and similarities between the images by displaying the images with contours, difference, and threshold.
 -->
 
