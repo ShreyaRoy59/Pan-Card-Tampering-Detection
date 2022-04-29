@@ -26,7 +26,6 @@ The purpose of this project is to detect tampering/fraud of PAN cards using comp
 - Packages
 
 
-
 ## Overview
 For this project we will calculate the structural similarity of the original PAN card and the PAN card uploaded by the user. 
 <!--   This is the soul of this project we will discuss it thoroughly later in this blog.-->
@@ -45,15 +44,12 @@ Similarly in this project with the help of image processing involving the techni
 8. Experiencing real-time contours and threshold on images
 
 
-
 ## Required packages
 
 * <a href="https://scikit-image.org/docs/dev/api/skimage.html#:~:text=scikit%2Dimage%20(a.k.a.%20skimage%20),image%20processing%20and%20computer%20vision."> <b>Skimage </b> </a> : Scikit-image, or ski-mage, is an open-source Python package, in this project most of the image processing techniques will be used via scikit-image
 * <a href= "https://github.com/PyImageSearch/imutils#:~:text=imutils-,A%20series%20of%20convenience%20functions%20to%20make%20basic%20image%20processing,Python%202.7%20and%20Python%203.">  <b>imutils </b> </a> : Imutils are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, and displaying images easier with OpenCV.
 * <a href="https://pypi.org/project/opencv-python/"> <b>cv2 </b> </a> : OpenCV (Open Source Computer Vision Library) is a library of programming functions. Here in this project major reading and writing of the image are done via cv2.
 * <a href="https://en.wikipedia.org/wiki/Python_Imaging_Library"> <b>PIL </b> </a> : PIL (Python Imaging Library) is a free and open-source additional library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.
-
-
 
 
 ### Summary
