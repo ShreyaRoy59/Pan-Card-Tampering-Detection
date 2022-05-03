@@ -3,11 +3,13 @@
 # Pan Card Tempering Detection
 
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/PYTHON%20-blue" />
   <img src="https://img.shields.io/badge/Computer%20%20Vision-brightgreen" />
 </p>
+
 
 
 ## Detecting fraud Pan Cards using Computer Vision to help organisations in verifying ID's of employees or customers.
@@ -17,6 +19,7 @@
 <img src="https://www.nec.com/en/global/solutions/biometrics/img/face/face_header_sd.jpg" width="800px">
 </p>
  
+
 
 
 The purpose of this project is to detect tampering/fraud of PAN cards using computer vision. This project will help the different organizations in detecting whether the Id i.e. the PAN card provided to them by their employees or customers or anyone is original or not.
@@ -42,6 +45,7 @@ Similarly in this project with the help of image processing involving the techni
 6. Applying Structural Similarity Index (SSIM) technique between the two images
 7. To calculate Threshold and contours and
 8. Experiencing real-time contours and threshold on images
+
 
 
 ## Required packages
