@@ -65,4 +65,3 @@ Similarly in this project with the help of image processing involving the techni
 
 - Finally, we visualized the differences and similarities between the images by displaying the images with contours, difference, and threshold.
 -->
-
