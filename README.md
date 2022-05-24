@@ -21,7 +21,6 @@ align="center">
  
 
 
-
 The purpose of this project is to detect tampering/fraud of PAN cards using computer vision. This project will help the different organizations in detecting whether the Id i.e. the PAN card provided to them by their employees or customers or anyone is original or not.
 ## Table of Contents
 - Overview
@@ -53,7 +52,6 @@ Similarly in this project with the help of image processing involving the techni
 * <a href= "https://github.com/PyImageSearch/imutils#:~:text=imutils-,A%20series%20of%20convenience%20functions%20to%20make%20basic%20image%20processing,Python%202.7%20and%20Python%203.">  <b>imutils </b> </a> : Imutils are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, and displaying images easier with OpenCV.
 * <a href="https://pypi.org/project/opencv-python/"> <b>cv2 </b> </a> : OpenCV (Open Source Computer Vision Library) is a library of programming functions. Here in this project major reading and writing of the image are done via cv2.
 * <a href="https://en.wikipedia.org/wiki/Python_Imaging_Library"> <b>PIL </b> </a> : PIL (Python Imaging Library) is a free and open-source additional library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.
-
 
 
 ### Summary
