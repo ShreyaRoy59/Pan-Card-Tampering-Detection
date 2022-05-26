@@ -1,5 +1,4 @@
 
-
 # Pan Card Tempering Detection
 
 
@@ -19,7 +18,6 @@ align="center">
 <img src="https://www.nec.com/en/global/solutions/biometrics/img/face/face_header_sd.jpg" width="800px">
 </p>
  
-
 
 The purpose of this project is to detect tampering/fraud of PAN cards using computer vision. This project will help the different organizations in detecting whether the Id i.e. the PAN card provided to them by their employees or customers or anyone is original or not.
 ## Table of Contents
