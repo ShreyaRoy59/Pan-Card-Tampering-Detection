@@ -2,7 +2,6 @@
 # Pan Card Tempering Detection
 
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/PYTHON%20-blue" />
@@ -42,7 +41,6 @@ Similarly in this project with the help of image processing involving the techni
 6. Applying Structural Similarity Index (SSIM) technique between the two images
 7. To calculate Threshold and contours and
 8. Experiencing real-time contours and threshold on images
-
 
 ## Required packages
 
