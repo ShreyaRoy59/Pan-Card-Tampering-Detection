@@ -42,7 +42,9 @@ Similarly in this project with the help of image processing involving the techni
 7. To calculate Threshold and contours and
 8. Experiencing real-time contours and threshold on images
 
+
 ## Required packages
+
 
 * <a href="https://scikit-image.org/docs/dev/api/skimage.html#:~:text=scikit%2Dimage%20(a.k.a.%20skimage%20),image%20processing%20and%20computer%20vision."> <b>Skimage </b> </a> : Scikit-image, or ski-mage, is an open-source Python package, in this project most of the image processing techniques will be used via scikit-image
 * <a href= "https://github.com/PyImageSearch/imutils#:~:text=imutils-,A%20series%20of%20convenience%20functions%20to%20make%20basic%20image%20processing,Python%202.7%20and%20Python%203.">  <b>imutils </b> </a> : Imutils are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, and displaying images easier with OpenCV.
