@@ -24,13 +24,11 @@ The purpose of this project is to detect tampering/fraud of PAN cards using comp
 - Steps in the project
 - Packages
 
-
 ## Overview
 For this project we will calculate the structural similarity of the original PAN card and the PAN card uploaded by the user. 
 <!--   This is the soul of this project we will discuss it thoroughly later in this blog.-->
 
 Similarly in this project with the help of image processing involving the techniques of computer vision I tried to detect that whether the given image of the PAN card is original or tampered (fake) PAN card.
-
 
 ## The steps in the project 
 1. Importing necessary libraries
