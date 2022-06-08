@@ -30,6 +30,7 @@ For this project we will calculate the structural similarity of the original PAN
 
 Similarly in this project with the help of image processing involving the techniques of computer vision I tried to detect that whether the given image of the PAN card is original or tampered (fake) PAN card.
 
+
 ## The steps in the project 
 1. Importing necessary libraries
 2. Scraping the tampered and original pan card from the website
