@@ -1,6 +1,4 @@
 
-
-
 # Pan Card Tempering Detection
 
 
