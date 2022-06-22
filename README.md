@@ -3,7 +3,6 @@
 # Pan Card Tempering Detection
 
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/PYTHON%20-blue" />
