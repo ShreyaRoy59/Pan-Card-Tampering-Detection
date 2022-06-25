@@ -13,6 +13,7 @@
 ## Detecting fraud Pan Cards using Computer Vision to help organisations in verifying ID's of employees or customers.
 
 
+
 <p 
 align="center">
 <img src="https://www.nec.com/en/global/solutions/biometrics/img/face/face_header_sd.jpg" width="800px">
@@ -62,3 +63,5 @@ Similarly in this project with the help of image processing involving the techni
 
 - Finally, we visualized the differences and similarities between the images by displaying the images with contours, difference, and threshold.
 -->
+
+
