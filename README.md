@@ -1,5 +1,4 @@
 
-
 # Pan Card Tempering Detection
 
 <!--
@@ -26,7 +25,6 @@ The purpose of this project is to detect tampering/fraud of PAN cards using comp
 - Overview
 - Steps in the project
 - Packages
-
 
 
 ## Overview
